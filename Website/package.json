@@ -1,0 +1,23 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "main": "app.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "npm install express --save"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "express": "^4.13.3",
+    "passport-facebook": "^2.0.0"
+  }
+}
+{
+  "require" : {
+    "facebook/php-sdk-v4" : "~5.0"
+  }
+}
